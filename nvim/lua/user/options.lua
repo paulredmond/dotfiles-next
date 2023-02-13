@@ -25,3 +25,5 @@ vim.opt.fillchars:append({ eob = ' ' }) -- remove the ~ from the end of buffer
 vim.opt.splitbelow = true
 vim.opt.splitright = true
 
+vim.opt.scrolloff = 8
+vim.opt.sidescrolloff = 8
