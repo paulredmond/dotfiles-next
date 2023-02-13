@@ -22,3 +22,6 @@ vim.opt.list = true
 vim.opt.listchars = { tab = '▶ ', trail = '·' }
 vim.opt.fillchars:append({ eob = ' ' }) -- remove the ~ from the end of buffer
 
+vim.opt.splitbelow = true
+vim.opt.splitright = true
+
