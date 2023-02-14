@@ -15,7 +15,7 @@ vim.opt.mouse = 'a' -- enable mouse for all modes
 vim.opt.termguicolors = true
 vim.opt.spell = true
 
-vim.opt.ignorecase = true -- Laracasts
+vim.opt.ignorecase = true
 vim.opt.smartcase = true
 
 vim.opt.list = true
